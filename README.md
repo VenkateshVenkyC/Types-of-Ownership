@@ -1,10 +1,6 @@
 # Types-of-Ownership
 Ownership refers to the legal right to possess, use, and control property or assets. The types of ownership differ based on the nature of the property and the rights of the owner(s). Below are some common types:
 
-# Types of Ownership
-
-Ownership refers to the legal right to possess, use, and control property or assets. The types of ownership differ based on the nature of the property and the rights of the owner(s). Below are some common types:
-
 ## 1. Sole Ownership
 - **Description**: The property is owned entirely by one individual or entity, with full control and responsibility for the asset.
 - **Example**: A person owning a house or a car outright.
